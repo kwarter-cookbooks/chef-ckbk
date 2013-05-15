@@ -2,6 +2,7 @@ source "https://rubygems.org"
 
 gem 'rake'
 gem 'foodcritic'
+gem 'chef'
 
 group :integration do
   gem 'berkshelf'
