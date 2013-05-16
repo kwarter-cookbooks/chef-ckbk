@@ -1,3 +1,10 @@
+## 0.1.0 / 2013-05-16
+
+### Bug fixes
+
+* Include CHANGELOG.\* in cookbook release artifacts. ([@fnichol][])
+
+
 ## 0.0.2 / 2013-05-16
 
 ### Improvements
