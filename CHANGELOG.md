@@ -1,3 +1,10 @@
+## 0.1.1 / 2013-05-16
+
+### Improvements
+
+* Category is maintained across releases. ([@fnichol][])
+
+
 ## 0.1.0 / 2013-05-16
 
 ### Bug fixes
