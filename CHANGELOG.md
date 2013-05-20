@@ -1,3 +1,10 @@
+## 0.2.3 / 2013-05-20
+
+### Improvements
+
+* Use alternate/explicit Thorfile format. ([@fnichol][])
+
+
 ## 0.2.2 / 2013-05-20
 
 ### Improvements
