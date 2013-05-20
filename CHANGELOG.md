@@ -1,3 +1,10 @@
+## 0.2.0 / 2013-05-20
+
+### New features
+
+* Add emeril support for `rake release` of cookbook. ([@fnichol][])
+
+
 ## 0.1.1 / 2013-05-16
 
 ### Improvements
