@@ -1,5 +1,10 @@
 require 'foodcritic'
-require 'emeril/rake'
+
+require 'emeril/rake_tasks'
+
+Emeril::RakeTasks.new do |t|
+  t.config[:logger].level = :debug
+end
 
 FoodCritic::Rake::LintTask.new do |t|
   t.options = { :fail_tags => ['any'] }
