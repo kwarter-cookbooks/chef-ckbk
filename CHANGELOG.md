@@ -1,3 +1,10 @@
+## 0.2.2 / 2013-05-20
+
+### Improvements
+
+* Use alternate/explicit Rakefile format. ([@fnichol][])
+
+
 ## 0.2.1 / 2013-05-20
 
 ### Improvements
