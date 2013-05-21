@@ -1,3 +1,10 @@
+## 0.2.4 / 2013-05-20
+
+### Improvements
+
+* Use gem release of emeril. ([@fnichol][])
+
+
 ## 0.2.3 / 2013-05-20
 
 ### Improvements
