@@ -1,5 +1,5 @@
-require 'emeril/thor_tasks'
+# encoding: utf-8
 
-Emeril::ThorTasks.new do |t|
-  t.config[:logger].level = :debug
-end
+require 'bundler'
+require 'bundler/setup'
+require 'berkshelf/thor'
